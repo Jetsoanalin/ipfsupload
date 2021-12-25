@@ -1,7 +1,7 @@
 # Upload Files to IPFS from Browser - Panel
 
 <h1 align="center">
-  <img width="650px" src="https://raw.githubusercontent.com/anarkrypto/upload-files-to-ipfs-from-browser-panel/master/public/img/preview.png" alt="Upload files to IPFS with Browser - Panel" />
+  <img width="650px" src="https://raw.githubusercontent.com/jetsoanalin/ipfsupload/master/public/img/preview.png" alt="Upload files to IPFS with Browser - Panel" />
 </h1>
 
 
@@ -14,9 +14,9 @@ Uma interface web simples e intituiva para a API [js-ipfs-http-client](https://g
 
 As linguagens utilizadas aqui (javascript, html e css) se aplicam a qualquer servidor web, podem rodar tanto com node js, conforme segue o tutorial abaixo, como em outros. 
 Para rodar no apache e nginx, por exemplo, basta copiar os arquivos de dentro do diretório 
-[<strong>/public</strong>](https://github.com/anarkrypto/upload-files-to-ipfs-from-browser-panel/tree/master/public") para o diretório do seu servidor (por exemplo /var/www/html/).
+[<strong>/public</strong>](https://github.com/jetsoanalin/ipfsupload/tree/master/public") para o diretório do seu servidor (por exemplo /var/www/html/).
 
-  [<h2>Demo Online</h2>](https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public)
+  [<h2>Demo Online</h2>](https://jetsoanalin.github.io/ipfsupload/public)
   
   
   
@@ -54,9 +54,9 @@ git --version
 Instalando
 
 ```bash
-git clone https://github.com/anarkrypto/upload-files-to-ipfs-from-browser-panel.git
+git clone https://github.com/jetsoanalin/ipfsupload.git
 
-cd upload-files-to-ipfs-from-browser-panel
+cd ipfsupload
 
 npm install
 ```
